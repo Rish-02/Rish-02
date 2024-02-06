@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://rishitajayant.netlify.app/](https://rishitajayant.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://port-folio-rish.netlify.app/](https://port-folio-rish.netlify.app/)
 
 - 📫 How to reach me **rish.jynt03@gmail.com**
 
