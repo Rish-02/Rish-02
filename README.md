@@ -6,13 +6,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=RishitaJayant.rishitajayant) 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently doing **DSA**
 
 - 👨‍💻 All of my projects are available at [https://port-folio-rish.netlify.app/](https://port-folio-rish.netlify.app/)
 
 - 📫 How to reach me **rish.jynt03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qo7jP9Ws1mJU8ZhOB0slKz96T3LOs4Md/view?usp=sharing](https://drive.google.com/file/d/1Qo7jP9Ws1mJU8ZhOB0slKz96T3LOs4Md/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hamdiQBSVZNb8eQrjrSmFyzKeZsvxrWG/view?usp=drive_link]( https://drive.google.com/file/d/1hamdiQBSVZNb8eQrjrSmFyzKeZsvxrWG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
